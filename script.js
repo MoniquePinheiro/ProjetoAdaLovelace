@@ -2,10 +2,11 @@ document.getElementById("botaoenviar").addEventListener("click", validaFormulari
 
 function validaFormulario() {
   if (document.getElementById("nome").value != ""
-    && document.getElementById("email").value != ""
-    && document.getElementById("telefone").value != "") {
+    && document.getElementById("e-mail").value != "") {
     alert("Pronto! Você receberá as novidades por e-mail. =)")
   } else {
     alert("Gentileza preencher todos campos para receber as novidades.")
   }
 }
+
+validaFormulario();
