@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-color: #8a71c9;
+  background-color: #5F9EA0;
   color: white;
   font-family:'Open Sans', sans-serif;
   margin: 0px;
@@ -63,7 +63,7 @@ body {
     }
 
   .menuPrincipal {
-    background-color: #ff6cb5;
+    background-color: #BC8F8F;
     display:inline-block; /*display alinhado lado a lado*/
     width: 60%;    
   }
