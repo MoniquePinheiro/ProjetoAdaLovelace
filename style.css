@@ -88,6 +88,13 @@ body {
     width: 100%;
     }
 
+  .tabela {
+    text-align: left;
+    font-size: 19px;
+    color: burlywood;
+    font-style: italic;
+    font-weight: 700;
+    }
   form {
       margin-bottom: 20px;
     }
